@@ -1,0 +1,130 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Data Structures",
+        "stars": 5,
+        "review": "Excellent teacher, really knows how to explain complex concepts."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Algorithms",
+        "stars": 4,
+        "review": "Great course, but sometimes the assignments were too challenging."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Operating Systems",
+        "stars": 3,
+        "review": "Good lectures but the exams were very tough."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Computer Networks",
+        "stars": 5,
+        "review": "Amazing professor, made networking concepts very clear."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "Software Engineering",
+        "stars": 4,
+        "review": "Very practical course with lots of real-world examples."
+      },
+      {
+        "professor": "Dr. Patricia Miller",
+        "subject": "Database Systems",
+        "stars": 4,
+        "review": "Good course, but could have used more practical examples."
+      },
+      {
+        "professor": "Dr. William Taylor",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Fantastic professor, made AI very accessible and interesting."
+      },
+      {
+        "professor": "Dr. Linda Anderson",
+        "subject": "Machine Learning",
+        "stars": 5,
+        "review": "Great teacher, provided excellent resources and support."
+      },
+      {
+        "professor": "Dr. Thomas Harris",
+        "subject": "Computer Vision",
+        "stars": 3,
+        "review": "Lectures were informative but the pace was too fast."
+      },
+      {
+        "professor": "Dr. Barbara Clark",
+        "subject": "Cryptography",
+        "stars": 4,
+        "review": "Good course, but the exams were very difficult."
+      },
+      {
+        "professor": "Dr. Robert Lewis",
+        "subject": "Cybersecurity",
+        "stars": 4,
+        "review": "Interesting course, but could have been more hands-on."
+      },
+      {
+        "professor": "Dr. Jessica Walker",
+        "subject": "Human-Computer Interaction",
+        "stars": 5,
+        "review": "Engaging lectures and very interactive course."
+      },
+      {
+        "professor": "Dr. Richard Hall",
+        "subject": "Distributed Systems",
+        "stars": 3,
+        "review": "Course material was dense, but the professor was very knowledgeable."
+      },
+      {
+        "professor": "Dr. Karen Young",
+        "subject": "Compiler Design",
+        "stars": 4,
+        "review": "Challenging course, but the professor was very supportive."
+      },
+      {
+        "professor": "Dr. Mark King",
+        "subject": "Web Development",
+        "stars": 5,
+        "review": "Excellent professor, very practical and hands-on course."
+      },
+      {
+        "professor": "Dr. Susan Wright",
+        "subject": "Mobile App Development",
+        "stars": 5,
+        "review": "Great course, lots of practical examples and projects."
+      },
+      {
+        "professor": "Dr. David Scott",
+        "subject": "Big Data Analytics",
+        "stars": 4,
+        "review": "Interesting course, but could have used more real-world examples."
+      },
+      {
+        "professor": "Dr. Michelle Green",
+        "subject": "Cloud Computing",
+        "stars": 5,
+        "review": "Fantastic course, very relevant and up-to-date with industry trends."
+      },
+      {
+        "professor": "Dr. Daniel Baker",
+        "subject": "Software Testing",
+        "stars": 3,
+        "review": "Good content, but the lectures were a bit dry."
+      },
+      {
+        "professor": "Dr. Lisa Gonzalez",
+        "subject": "Parallel Computing",
+        "stars": 4,
+        "review": "Challenging course, but the professor explained the concepts very well."
+      },
+      {
+        "professor": "Dr. Charles Nelson",
+        "subject": "Embedded Systems",
+        "stars": 5,
+        "review": "Excellent professor, made the course very interesting and engaging."
+      }
+    ]
+  }
